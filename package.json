@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.2",
     "react-native-date-picker": "^2.2.1",
     "react-native-image-crop-picker": "^0.21.3",
     "react-native-md5": "^1.0.0",
